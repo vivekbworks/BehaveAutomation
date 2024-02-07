@@ -1,0 +1,13 @@
+<testsuite errors="0" failures="0" hostname="Vivek-PC" name="Employee.Employee want promotion but manager doesn't. so Manager decide to busy employee whenever he ask any questions" skipped="0" tests="1" time="20.785189" timestamp="2024-02-07T23:59:07.746918"><testcase classname="Employee.Employee want promotion but manager doesn't. so Manager decide to busy employee whenever he ask any questions" name="Employee - Kya sir promotion to de do. -- @1.1 " status="passed" time="20.785189"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario Outline: Employee - Kya sir promotion to de do. -- @1.1 
+    Given Tu pehle chrome browser open kar ... passed in 4.564s
+    When ye wali website open kar "https://ultimateqa.com/filling-out-forms/" ... passed in 2.775s
+    When usme apna naam aur aaj tak tune kya kya kam kiya wo fill kar ... passed in 10.866s
+    Then uske bad agar aaj tu fir wapas aaya to aur ek kam dunga ... passed in 2.580s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>
